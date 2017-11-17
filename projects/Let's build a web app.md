@@ -8,24 +8,26 @@ In the successor project, the existing application will be migrated over to AWS 
 
 Skills developed
 ----------------
-* HTML/CSS
-* Javascript
-* Node.js
-* MongoDB
-* REST APIs
-* Bash
-* Source control
-* Information security
-* Test-driven development
-* Continuous integration & deployment
-* Code readability & maintainability
+* Primary
+  * HTML/CSS
+  * Javascript
+  * Node.js
+  * MongoDB
+  * REST APIs
+  * Bash
+  * Source control
+  * Code readability & maintainability
+* Secondary
+  * Information security
+  * Test-driven development
+  * Continuous integration & deployment
 
 Delivery
----------
+--------
 The project is intended to take place through weekly practical workshops of about three hours, plus around a day's time working independently on the topics covered in the workshop.
 
 Modules
----------
+-------
 ### 1. User-centred design
 This module introduces apprentices to the concept of **user needs** and business needs, plus the value of user research. Apprentices will "imagine" some user needs for the sake of the exercise, map out possible user journeys and eventually create several iterations of wireframes for the application.
 
@@ -84,7 +86,7 @@ We will discuss the structure of MongoDB databases (keys, documents, collections
 ### 10. Deploy with Heroku
 We will deploy the application, which has been only running locally until now, to Heroku. We will consider ways to implement **continuous integration** and **continuous deployment**.
 
-### 11. Getting data APIs
+### 11. Getting data from APIs
 We will bring external data into our application sourced from a GET request to a third-party API.
 
 We will use the HTTP request module Axios to fetch this data, and then display it to a user via a dynamic template. Depending on each apprentices' concept, we may enrich the information in their own database with info from this third party API.

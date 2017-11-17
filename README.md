@@ -9,7 +9,7 @@ There are four kinds of content in here.
 
 
 ### Projects
-These are long
+These are extended exercises with theoretical and practical parts, intended to teach a range of technical principles and skills and tools.
 
 ### Inductions
 These sessions introduce an element of the history and context of the tax platform and HMRC, rather than teaching a particular skill. This includes ways of working, what teams do, etc.
@@ -18,4 +18,4 @@ These sessions introduce an element of the history and context of the tax platfo
 A mixture of online tutorials and signposts to relevant external training opportunities (eg. GDS community organised training).
 
 ### Bookmarks
-It's tough to remember URLs. Ease your onboarding experience with a ready-made list of URLs to our tools.
+It's tough to remember URLs. Help out new joiners with a pre-prepared list of bookmarks.

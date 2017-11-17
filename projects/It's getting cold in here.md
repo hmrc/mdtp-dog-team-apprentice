@@ -5,7 +5,7 @@ This project will see apprentices build an automated temperature-logging system 
 
 Apprentices will learn to access USB devices with their programming language of choice, log data from them to a database, and eventually send that data to a remote server, which makes it publicly available on a web frontend.
 
-This project is **deliberately open-ended**, so that apprentices are free to iterate the product as they feel is appropriate.
+This project is **deliberately open-ended**, so that apprentices are free to iterate the product as they feel is appropriate to meet user needs.
 
 Skills developed
 ----------------
@@ -37,6 +37,7 @@ The team will be split into pairs with different focuses.
 Review the codebase of the project. Discuss progress made and potential improvements, with reference to the original user needs. Plan the next iteration.
 
 Potential future iterations could include:
+* Add automated alerts if readings drop below a threshold
 * Add basic user authentication for the web client
 * Deploying to an AWS EC2 instance rather than to Heroku
 * Use Docker containers rather than bare Linux.

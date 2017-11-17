@@ -4,6 +4,8 @@ This is a project intended to teach the fundamentals of user-centred design, fro
 
 Apprentices will conceptualise, design and build a simple yet working web application from scratch.
 
+In the successor project, the existing application will be migrated over to AWS rather than Heroku.
+
 Skills developed
 ----------------
 * HTML/CSS
@@ -13,9 +15,10 @@ Skills developed
 * REST APIs
 * Bash
 * Source control
-* Linux administration
 * Information security
 * Test-driven development
+* Continuous integration & deployment
+* Code readability & maintainability
 
 Delivery
 ---------
@@ -56,3 +59,45 @@ Outside workshops, apprentices are guided independently through adding all neces
 Here, we introduce the concept of javascript running on the server, along with writing some simple unit tests for the code they write.
 
 Apprentices will install Node, NPM and the testing framework Jasmine.
+
+The need to use a web server to proceed, rather than simply loading files into the browser using `file:///` will be discussed.
+
+Apprentices end up with a fresh project directory initialised with NPM, and learn how to serve HTML files via a web server coded in Node. Future modules will add code and functionality to this directory.
+
+### 7. Frameworks and Express
+Apprentices will be introduced to the concept of code **dependencies**, reusable packages/modules of code, and **abstraction**.
+
+The server code written in the last module will be substantially **refactored** to use Express, a Node.js web server framework.
+
+At the end of this module, apprentices will have a simple Express application with at least three routes, all serving different HTML files.
+
+### 8. Templating and JSON
+We will start to include dynamic data in our HTML files. Using the handlebars templating language, apprentices will learn to pass dynamic data from the server into their client applications.
+
+The structure of JSON data will be outlined, and we will discuss the kind of data each project application is likely to handle and how to structure it in JSON.
+
+### 9. MongoDB
+We will refactor the applications to use a MongoDB database with at least one model, rather than relying on static JSON variables. We will use the popular Mongoose module to interact with the databse.
+
+We will discuss the structure of MongoDB databases (keys, documents, collections) and their differences to MySQL databases.
+
+### 10. Deploy with Heroku
+We will deploy the application, which has been only running locally until now, to Heroku. We will consider ways to implement **continuous integration** and **continuous deployment**.
+
+### 11. Getting data APIs
+We will bring external data into our application sourced from a GET request to a third-party API.
+
+We will use the HTTP request module Axios to fetch this data, and then display it to a user via a dynamic template. Depending on each apprentices' concept, we may enrich the information in their own database with info from this third party API.
+
+### 12. Handling user input with forms
+Now we have a working web server serving dynamic templates, we will work on sending data back up to the server using POST requests and simple HTML forms. We will revisit the original user needs to ensure our
+
+### 13. Authentication and authorisation
+We will consider ways to secure our application to known users, and restrict user permissions to certain operations.
+
+We will begin with a basic understanding how one-way cryptographic functions work, revisit the concept of HTTPS, and consider ways we could authenticate users of our application.
+
+We may implement a very simple cookie-based authentication system.
+
+### 14. Next steps
+We will consider the current state of each application and how we could improve it. We will pay particular attention to the end user experience and revisit the original user needs.

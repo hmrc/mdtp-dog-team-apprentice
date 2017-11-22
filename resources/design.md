@@ -4,6 +4,7 @@ Interface design
 Tutorials and other online resources for clean, usable design of digital services and applications.
 
 * [Google's material design guidelines](https://material.io/guidelines/)
+* [Good Web Design](goodweb.design). A curated collection of sensible, sober, accessible web design, largely following GDS design principles. Great for inspiration.
 
 
 Libraries & tools

@@ -7,6 +7,4 @@ Beginner
 --------
 
 * [A basic HTTP web server](https://www.sitepoint.com/creating-a-http-server-in-node-js/)
-
-Advanced
---------
+* [Real time web apps with Websockets](https://www.youtube.com/watch?v=bjULmG8fqc8). Great for understanding how to build chat apps and similar.

@@ -24,6 +24,7 @@ Stretch goal
 
 * The user has a limited number of guesses, and will "lose" if they exceed this number.
 * Let the user decide if they would like to play again upon a correct guess, or upon running out of guesses.
+* The script should keep track of the average number of guesses the user takes before a correct one, and tell them their current average after every game.
 
 Possible approach
 ---------------

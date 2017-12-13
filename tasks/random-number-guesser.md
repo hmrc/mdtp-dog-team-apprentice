@@ -2,8 +2,11 @@ Random Number Guesser
 ====================
 
 **Technology:** Any
+
 **Difficulty**: Easy
+
 **Duration**: 1-2 hours
+
 **Relevant concepts**: Randomness, loops, handling user input
 
 Goal

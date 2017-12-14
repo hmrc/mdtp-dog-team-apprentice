@@ -21,3 +21,12 @@ A mixture of online tutorials and signposts to relevant external training opport
 
 ### Bookmarks
 It's tough to remember URLs. Help out new joiners with a pre-prepared list of bookmarks.
+
+Sprint structure
+---------------
+
+*team-apprentice* will be organised around two-week agile sprints.
+
+Each sprint will contain a mixture of technical project work (delivered via 20% supervised workshops, 80% unsupervised pair/individual working), shadowing and research.
+
+One large project will take up nearly half of apprentices' time per sprint, and will last for at least three sprints. Medium tasks will last two sprints or less, and small tasks will last less than one sprint.

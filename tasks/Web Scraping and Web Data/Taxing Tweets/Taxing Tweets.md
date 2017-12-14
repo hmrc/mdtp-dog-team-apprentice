@@ -25,11 +25,15 @@ You should:
 Stretch goals
 ------------
 
-* Allow a user to specify additional keywords for the search (e.g. VAT, 
+* Allow a user to specify additional keywords for the search (e.g. VAT)
 * Plug into Twitter’s trend API and compare the frequency of tweets about tax and HMRC to other trending issues in the UK
+* Create a dynamic heatmap of the UK to visualise where tax tweets come from
 * Perform rudimentary sentiment analysis on HMRC tweets
+
 
 Possible approach
 ---------------
 The web has a lot of tutorials and help for accessing Twitter’s APIs. This will give you a good start - http://socialmedia-class.org/twittertutorial.html
+
+Advice on stretch goals is available at https://marcobonzanini.com/2015/04/01/mining-twitter-data-with-python-part-5-data-visualisation-basics/
 

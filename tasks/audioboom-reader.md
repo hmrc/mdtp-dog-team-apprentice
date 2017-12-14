@@ -31,7 +31,7 @@ Stretch goals
 Possible approach
 ---------------
 
-This exercise is best accomplished with python and the terminal.
+This exercise is best accomplished with python and the terminal, but could also be tackled with node.js.
 
 A library to handle network requests is required, and some way to convert the JSON returned by the Audioboom API into a python dictionary is necessary.
 

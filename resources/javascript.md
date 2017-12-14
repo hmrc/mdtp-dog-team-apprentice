@@ -13,3 +13,8 @@ Node.js
 
 * [A basic HTTP web server](https://www.sitepoint.com/creating-a-http-server-in-node-js/)
 * [Real time web apps with Websockets](https://www.youtube.com/watch?v=bjULmG8fqc8). Great for understanding how to build chat apps and similar.
+
+Reference
+---------
+
+* [Official documentation of Javascript](https://developer.mozilla.org/bm/docs/Web/JavaScript)

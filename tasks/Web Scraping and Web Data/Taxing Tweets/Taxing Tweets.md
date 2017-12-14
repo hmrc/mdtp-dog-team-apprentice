@@ -5,7 +5,7 @@ Taxing Tweets
 
 **Difficulty**: Medium
 
-**Duration**: 16-32 hours
+**Duration**: 12-24 hours
 
 **Relevant concepts**: APIs, JSON, loops
 

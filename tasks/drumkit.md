@@ -1,7 +1,7 @@
 Virtual drumkit
 ===============
 
-*THIS EXERCISE RELIES ON ASSETS FROM (https://javascript30.com/)[JAVASCRIPT30]*
+**THIS EXERCISE RELIES ON ASSETS FROM [JAVASCRIPT30](https://javascript30.com/)**
 
 **Technology:** HTML/CSS, Javascript
 

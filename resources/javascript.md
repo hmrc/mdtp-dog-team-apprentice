@@ -8,6 +8,10 @@ Beginner
 
 * [Codecademy JS course](codecademy.com/tracks/javascript) - a long, but comprehensive course teaching basic programming principles using javascript. No project-based examples.
 
+Intermediate
+------------
+* [Javascript30](javascript30.com) - Free vanilla JS exercises. About 15 days equivalent of full time work. Some of these have been re-interpreted over in the /tasks folder.
+
 Node.js
 -------
 

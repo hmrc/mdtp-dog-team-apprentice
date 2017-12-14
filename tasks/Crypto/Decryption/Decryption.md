@@ -28,6 +28,7 @@ Stretch goals
 
 * Add a user interface for inputting new cipher texts
 * Add a review interface for fixing up errors in your decryption (e.g. to substitute letters that have been mixed up)
+* Extend your freq analysis to 2 and 3 letter groupings (digrams and trigrams)
 
 Possible approach
 ---------------

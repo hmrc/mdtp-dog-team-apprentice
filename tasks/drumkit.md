@@ -1,6 +1,8 @@
 Virtual drumkit
 ===============
 
+*THIS EXERCISE RELIES ON ASSETS FROM (https://javascript30.com/)[JAVASCRIPT30]*
+
 **Technology:** HTML/CSS, Javascript
 
 **Difficulty**: Easy

@@ -1,7 +1,7 @@
 About these tasks
 ================
 
-This folder contains a mix of coding challenges and exercises for all levels and technologies. Most of them are
+This folder contains a mix of coding challenges and exercises for all levels and technologies. Most of them are *technology-agnostic*, meaning you can choose whichever programming language or tool makes sense to you.
 
 When attempting these exercises, remind yourself that:
 

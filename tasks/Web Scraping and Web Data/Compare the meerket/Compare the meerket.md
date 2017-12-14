@@ -24,7 +24,7 @@ Stretch goals
 ------------
 
 * Implement a schedule to track the price of an item on different online marketplaces over time. Is there a day of the week or time of year when prices change often?
-* Instead of hardcoding in a product, try a product class and allow users to pick from a selection of products to compare. Alternatively, allow the user to specify different online marketplaces.
+* Instead of hardcoding in a product, try a product class and allow users to pick from a selection of products to compare. Alternatively, allow the user to include or exclude different online marketplaces.
 
 Possible approach
 ---------------

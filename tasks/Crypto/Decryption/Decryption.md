@@ -7,7 +7,7 @@ Decryption
 
 **Duration**: 4-8 hours
 
-**Relevant concepts**: freq analysis
+**Relevant concepts**: freq analysis, loops, 
 
 **Prerequisites** N/A
 

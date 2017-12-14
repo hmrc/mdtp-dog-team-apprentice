@@ -17,8 +17,8 @@ Produce a script or program that searches common online marketplaces for a produ
 
 The script should:
 * Pull price data on a predefined product from multiple online marketplaces
-* Compare prices for the product (don’t forget shipping)
-* Display a recommended retailer to the user
+* Have a function to compare prices for the product (don’t forget shipping)
+* Display a recommended retailer to the user and a link
 
 Stretch goals
 ------------

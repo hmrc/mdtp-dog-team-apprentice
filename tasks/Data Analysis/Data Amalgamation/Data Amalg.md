@@ -18,6 +18,7 @@ To merge data from multiple csv files and calculate variables from the data.
 You should:
 * Look at your data
 * Import data from all five csv files into your script
+* Count the total number of banks in 1933 and 1939 (to check n against merged file)
 * Write a function to merge the data from all the files into one
 * Check you haven’t lost any data
 * Create a bank-level variable for the difference in bank lending between 1939 and 1933

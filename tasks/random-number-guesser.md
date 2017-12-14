@@ -9,6 +9,8 @@ Random Number Guesser
 
 **Relevant concepts**: Randomness, loops, handling user input
 
+**Prerequisites**: Codecademy Python course sections 1-4
+
 Goal
 ----
 Produce a script or program which lets a user make guesses as to a random number.

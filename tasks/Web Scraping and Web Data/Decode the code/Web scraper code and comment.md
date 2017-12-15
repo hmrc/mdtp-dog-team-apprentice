@@ -1,6 +1,8 @@
 Code and Comment
 ====================
 
+***AVAILABLE FOR INDIVIDUALS***
+
 **Technology:** Any
 
 **Difficulty**: Easy

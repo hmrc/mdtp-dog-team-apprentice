@@ -1,6 +1,8 @@
 Data Amalgamation
 ====================
 
+***AVAILABLE***
+
 **Technology:** Any
 
 **Difficulty**: Easy

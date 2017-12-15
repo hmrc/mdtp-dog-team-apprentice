@@ -1,6 +1,8 @@
 Bargain Hunter (Compare the Meerket)
 ====================
 
+***AVAILABLE FOR INDIVIDUALS***
+
 **Technology:** Any
 
 **Difficulty**: Medium

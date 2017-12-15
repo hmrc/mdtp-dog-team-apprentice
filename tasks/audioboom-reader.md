@@ -1,9 +1,6 @@
 Audioboom API Reader
 ===================
 
-Hangman
-=======
-
 **Technology:** Any
 
 **Difficulty**: Intermediate

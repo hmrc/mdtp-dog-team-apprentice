@@ -1,6 +1,8 @@
 Web Scraper
 ====================
 
+***ONGOING IN PAIRS***
+
 **Technology:** Any
 
 **Difficulty**: Easy

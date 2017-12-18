@@ -1,0 +1,400 @@
+GMA Key Number 00 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: RHEQSWPYUGVIBOTJKDLAXMCNZF
+
+GMA Key Number 01 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: TWUXKBGFLHZPSOYVERQDNJCMAI
+
+GMA Key Number 02 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: CSAIGFPROTZKMHJNYQXWULBDEV
+
+GMA Key Number 03 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ZIHJUPDOVWXFMCEAGRTLBQSKYN
+
+GMA Key Number 04 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: JDPMKYVTEQBSCRIGOUHLXWANFZ
+
+GMA Key Number 05 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: DZSQROLVCHJMANWUFPBYTKIXEG
+
+GMA Key Number 06 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: AEYSZBIDGQFOJXMPWVHNCLKUTR
+
+GMA Key Number 07 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: EHAJVORFWNMGUZIKXLCTQPSYBD
+
+GMA Key Number 08 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: RWQMHGCDNLUYBPKXESJZIVOAFT
+
+GMA Key Number 09 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: CBVSQIDRYPGHAMNULTOJZKEWXF
+
+GMA Key Number 10 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ZQPLOBRHMGNFDXKITUAEYSCWVJ
+
+GMA Key Number 11 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: JYNBIZCAUFESHOLXWMVKTQDPGR
+
+GMA Key Number 12 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: QBUCVMWJKDISFHNGEXYLRZPTOA
+
+GMA Key Number 13 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ZPDIGCFVKSBHJXEQARTWNYMOUL
+
+GMA Key Number 14 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: OAYPXKQBTUJCIVWGRHFZSLDENM
+
+GMA Key Number 15 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: KQUDHCBPAVZGMXYNITJFSOLERW
+
+GMA Key Number 16 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: JREZDUQSACWVTNXOYPMKFGHBLI
+
+GMA Key Number 17 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ZHKERMDBTVLYINWFPUJGOCAXSQ
+
+GMA Key Number 18 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: HTSJAYXDNORWLIKBVCZQUFPMGE
+
+GMA Key Number 19 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: TSDHBRQEKGJVNZMPYULOXWICAF
+
+GMA Key Number 20 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: TMXWFVRICLNBGPAQEZOKHSUDJY
+
+GMA Key Number 21 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: SOTPXBLCIEANFJWRYHQVMZGKUD
+
+GMA Key Number 22 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: LUOAHMRISNBTKZDWQYJXCEFGPV
+
+GMA Key Number 23 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ENRXIBZOUYAPDJQLMSFGVKWTCH
+
+GMA Key Number 24 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: MRCBNDZQOHUXFTWLEAIVSPKYGJ
+
+GMA Key Number 25 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: PLZEWGUBCAKQVXDJHIRSMFNTOY
+
+GMA Key Number 26 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: FGTPIJUDEVLHRZXYSMCWNKOAQB
+
+GMA Key Number 27 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: QRJNGCXZMWYPUOHSVEIAFTDKBL
+
+GMA Key Number 28 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: YTQLPIVCFRUKNEXMAWBGZJODSH
+
+GMA Key Number 29 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: HTZWCGANRUIMLXEBVOFJDQKYPS
+
+GMA Key Number 30 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: PETRKIAOHYNGMBFCJUZWSLXDQV
+
+GMA Key Number 31 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: DCZGHSYXTFIBVWQMURJPAOENLK
+
+GMA Key Number 32 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: DMPWKNJGSEZAIYTRXUOFBCLQHV
+
+GMA Key Number 33 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ESLZRODXBHMPGUCTKWYQVNIAFJ
+
+GMA Key Number 34 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: UGXAZSVOMNFERPYCJKLTDIBQWH
+
+GMA Key Number 35 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: NZUXSEOKQCWMVDABJIGLRFYTPH
+
+GMA Key Number 36 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: CGMEJOTQRLANYWPZFXISBHUKVD
+
+GMA Key Number 37 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: KPOIXZFRAYJQVLGESBDTCUNMWH
+
+GMA Key Number 38 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: FZMOKVITEQCXLBSANPHWYUGJDR
+
+GMA Key Number 39 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ZDOFHPGMWENISVABXULCQRJKYT
+
+GMA Key Number 40 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: MXCELIPVGUAWZNRFQTJOBKSDHY
+
+GMA Key Number 41 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: QPLYCDAOWJUNFSEHKZVMIBRTGX
+
+GMA Key Number 42 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: BOPXQHUVJNLGKMTCARSIDFWEYZ
+
+GMA Key Number 43 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: UOSRFEXLMNCBVWAQZHDTYIPJKG
+
+GMA Key Number 44 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ALNUXPDYGOIRWEBQCSTZFVKMHJ
+
+GMA Key Number 45 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: RBODZQECXVYTLFWNKGIHJPMSAU
+
+GMA Key Number 46 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: PLTOWHCBQNJVGUAMYEKIZSFRXD
+
+GMA Key Number 47 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: VOBFSYLIHAZRNMWXCKDTUQGEPJ
+
+GMA Key Number 48 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: OXGCMAEFDZTUHQPBLSVKJIRNWY
+
+GMA Key Number 49 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: BFETKVWACZOXISQNLPUYJRHDMG
+
+GMA Key Number 50 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: CUWFEOXJZANDLRQSKGPMHTBVYI
+
+GMA Key Number 51 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ZTLJUFKPOASMDEBIHYGQVXNCWR
+
+GMA Key Number 52 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: YGJWLZNIQKEOFTHBCUDPAXVSMR
+
+GMA Key Number 53 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: HFOYKRWAXNPJTQLGICVBZSMEDU
+
+GMA Key Number 54 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: LSXHPTENWYKJVBQDFOUZMGIACR
+
+GMA Key Number 55 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ERKFMZATWILHQOJBXDVGCPYUNS
+
+GMA Key Number 56 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: OPFKEMGIZVSXBTCLJYUNRAQHDW
+
+GMA Key Number 57 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: RBXJAYZGELPVMCIKTQHSDNOFWU
+
+GMA Key Number 58 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: RMTIGYWPNACXZHELKUBODVJQFS
+
+GMA Key Number 59 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: SCLNPTIQBRZXYEJHMWGUADVFKO
+
+GMA Key Number 60 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: DNQWUGSIKHVCLMXRYZEFBOJAPT
+
+GMA Key Number 61 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: MIGBZCAFNKTSRLXVJYODWHUPEQ
+
+GMA Key Number 62 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: JCVTDPRGHKELWXMNBQAUFZOIYS
+
+GMA Key Number 63 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: MCTLRZFBGDOUKXYSNEPHWQVAIJ
+
+GMA Key Number 64 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: GXQSWEUVCPNYIODBZTKFLHMRAJ
+
+GMA Key Number 65 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: NIOGQBZXYJRWHCVEMDTKUSAPLF
+
+GMA Key Number 66 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: FGEYHARSJKMOIUQVZDWBXTCPNL
+
+GMA Key Number 67 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: MDVWGPCRKFTIAEUBQSOYNXJHLZ
+
+GMA Key Number 68 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: MZWFEUKJIVABDPRSOGQNHTCLXY
+
+GMA Key Number 69 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: DMEPAFCSNTVLQWZGKRHUOYJBXI
+
+GMA Key Number 70 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: UGENQYMOBCJHXSWDARIVLTZPFK
+
+GMA Key Number 71 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: YGDXFSIKNHJACZTBWMLQUROVPE
+
+GMA Key Number 72 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: NKTHCJBWLARYGZEXMQUFSVIOPD
+
+GMA Key Number 73 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: WBPQUZHTYCEGDXKNAMJLOVISRF
+
+GMA Key Number 74 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: EKYRDCWUMINGOAZQFTBSLHVJPX
+
+GMA Key Number 75 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: EDPULQCISKOHAZWBRYXJTGNFVM
+
+GMA Key Number 76 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: LANZTWROHKCGBIMPDJQVFXSYUE
+
+GMA Key Number 77 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: GHCLTVWBRFDQKYAPJESONXUZIM
+
+GMA Key Number 78 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: LWTFPAQGZXICYKONUEHSDVMBJR
+
+GMA Key Number 79 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: MSBCGVIJKAZQYDFOWNPRXLTHEU
+
+GMA Key Number 80 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: AFZUEGLPDISCNXBOWVJQRHYMTK
+
+GMA Key Number 81 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: XBANKYEOJSZQDICWHVGPULMTRF
+
+GMA Key Number 82 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: HUCQWSFBVEMAGJKLPRTZDYINOX
+
+GMA Key Number 83 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: STYOVNEUDWQBCFHGLIZKPMAXJR
+
+GMA Key Number 84 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: TFVECXDIMJGBPAOHNYLSWRZKUQ
+
+GMA Key Number 85 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: OKTZJXBQURPAWHFNDCESYIMVGL
+
+GMA Key Number 86 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: FIAQRKBYNEUMOXVJDGTZPSCLHW
+
+GMA Key Number 87 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: TZHNULEOBIWYMFPXAVJRKCGSDQ
+
+GMA Key Number 88 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: PLYTKSEOBMZICXDFJRHAVQGWNU
+
+GMA Key Number 89 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: GEDHVQFWKLOJZUXBAITYCPMRSN
+
+GMA Key Number 90 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: WCYIKUJGORNFLDBZSTHQMPVXAE
+
+GMA Key Number 91 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: TBAWNOMKSIDFEURLQJCPYXZVGH
+
+GMA Key Number 92 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: YIGEDQULCJVAZONKBXSFRPTWMH
+
+GMA Key Number 93 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ETHVDNXFICSRBJMYGQALOKWZPU
+
+GMA Key Number 94 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: IRTOUDNPCHJEZMBVQYKLWXSAFG
+
+GMA Key Number 95 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: YOQJBUAXIVFNLCHGRETKSDZMWP
+
+GMA Key Number 96 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ITJYFALHVDGZOXBCNKMWQPUSRE
+
+GMA Key Number 97 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: ARHCTGEPSIWOJXUYNLQDVZKBFM
+
+GMA Key Number 98 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: LUDXYTWIRHONBSQGEFCKZJMVPA
+
+GMA Key Number 99 is:
+Plain : abcdefghijklmnopqrstuvwxyz
+Cipher: JBANFHILDPTEXYKZUSQRWGMVCO
+

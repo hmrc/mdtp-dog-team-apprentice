@@ -1,0 +1,500 @@
+GMA ciphertext number:  00
+
+YSDSLTIMSQATIUSRCRVSXOAUIAYS
+------------------------------------------------------------
+
+GMA ciphertext number:  01
+
+XLOGXYOGDFKFYNRLDQKPBQTLXQURYYGK
+------------------------------------------------------------
+
+GMA ciphertext number:  02
+
+KOPRWFKCXRGIUNOHWRGQJJMUNJH
+------------------------------------------------------------
+
+GMA ciphertext number:  03
+
+VLTOZVRSOVHOOBCDZIEBLVLTCUHX
+------------------------------------------------------------
+
+GMA ciphertext number:  04
+
+KWKRLTEHLTIXVTATKRHPUIIVKSIIBKM
+------------------------------------------------------------
+
+GMA ciphertext number:  05
+
+DNQCNYVRKRPEIWNQRPWOYVCBCY
+------------------------------------------------------------
+
+GMA ciphertext number:  06
+
+KDANZUYOAGJZSNDZIDMHNKMCOS
+------------------------------------------------------------
+
+GMA ciphertext number:  07
+
+TEMVFVVJWTKQTIQTWTCCTLIZRFEZJ
+------------------------------------------------------------
+
+GMA ciphertext number:  08
+
+ZDHCSRJXZDKICDCHPZYHRJROKBRPJ
+------------------------------------------------------------
+
+GMA ciphertext number:  09
+
+YECOBTQSYMJRYOUHCVQYECOCBNX
+------------------------------------------------------------
+
+GMA ciphertext number:  10
+
+FOEYARKKXEHOVCZFNOLZFKXREHO
+------------------------------------------------------------
+
+GMA ciphertext number:  11
+
+DAGDJVAIMIFLUNIBYIGLOBJSSYLTOBV
+------------------------------------------------------------
+
+GMA ciphertext number:  12
+
+KLPQYQSQXWVJNRYVBRLNHVNMBXNIVH
+------------------------------------------------------------
+
+GMA ciphertext number:  13
+
+ZHEXGHUPEUMZTRGZIKXFPUZCGGPHG
+------------------------------------------------------------
+
+GMA ciphertext number:  14
+
+ZBXFGTHTZZWSYBXPBTIWVZBXOHI
+------------------------------------------------------------
+
+GMA ciphertext number:  15
+
+LPKFQSJAXHJJPKDPHFYQHMKTTAHD
+------------------------------------------------------------
+
+GMA ciphertext number:  16
+
+QPDDNRXZLJNZLDVVXHKJAVHAKS
+------------------------------------------------------------
+
+GMA ciphertext number:  17
+
+NWGBTNDJZTEJKUWWDRNWGBTNDGBRUR
+------------------------------------------------------------
+
+GMA ciphertext number:  18
+
+ZSCKKXAWKKRAJHQQDAXDKZQHIJ
+------------------------------------------------------------
+
+GMA ciphertext number:  19
+
+OMSUKZQAMXEMNBEMNBEMNBEMNB
+------------------------------------------------------------
+
+GMA ciphertext number:  20
+
+KIFPOIFMFRTPKAWZTRICGCPIFZ
+------------------------------------------------------------
+
+GMA ciphertext number:  21
+
+FSQVXHQTHWWLXQVHMJAOXIJLOU
+------------------------------------------------------------
+
+GMA ciphertext number:  22
+
+LTFLPJLAHTSOLXHOYHLXCYHFIDK
+------------------------------------------------------------
+
+GMA ciphertext number:  23
+
+UGWEFDEXILPEUJIJQVZONCGOIXSIFFUJZ
+------------------------------------------------------------
+
+GMA ciphertext number:  24
+
+QNASRRNBQOIQMTBIMBHSIVNBQOI
+------------------------------------------------------------
+
+GMA ciphertext number:  25
+
+ECZKNCQKCXRSDLWRMIWRPCERZIDDUW
+------------------------------------------------------------
+
+GMA ciphertext number:  26
+
+THIFMFOFQRQHFPCFZPHIWCDFKI
+------------------------------------------------------------
+
+GMA ciphertext number:  27
+
+MOJQUGAZGAZEGGUMIICGLLMDMXI
+------------------------------------------------------------
+
+GMA ciphertext number:  28
+
+FEGCPSYKKQYNPXEPYIGPWEXGCPW
+------------------------------------------------------------
+
+GMA ciphertext number:  29
+
+JNCXEMWGCSSRKRAFJEEWEDJJEWHXZC
+------------------------------------------------------------
+
+GMA ciphertext number:  30
+
+ESWHIWOKQOPREKKBWXHTKPZMPBQPO
+------------------------------------------------------------
+
+GMA ciphertext number:  31
+
+DMQJTPTOHBTYXPDMMHDRHGPQTJJAH
+------------------------------------------------------------
+
+GMA ciphertext number:  32
+
+LGKYKCKUHMTWHGDWUKFSUKWMBF
+------------------------------------------------------------
+
+GMA ciphertext number:  33
+
+YGEPPRLXCRZYLWCCDRQXRYTBWBQ
+------------------------------------------------------------
+
+GMA ciphertext number:  34
+
+MTMLPTTOUTLCMKMTOZOULTOZCYBZK
+------------------------------------------------------------
+
+GMA ciphertext number:  35
+
+LKNLGNMMKQGEAIVSIGSMELRIDSX
+------------------------------------------------------------
+
+GMA ciphertext number:  36
+
+RSYCSSJXINRSSNJIQJICREIPOSNV
+------------------------------------------------------------
+
+GMA ciphertext number:  37
+
+RXDKAITRXBXADLGTRALFGLNRAOR
+------------------------------------------------------------
+
+GMA ciphertext number:  38
+
+EWGFHLFOKGTKBGKGKPKZSWTASSP
+------------------------------------------------------------
+
+GMA ciphertext number:  39
+
+WVHRHUYCMWVGCMZCSZFHSYIARH
+------------------------------------------------------------
+
+GMA ciphertext number:  40
+
+XBOGIHRBSLTLITLLOREMHORZRTTRS
+------------------------------------------------------------
+
+GMA ciphertext number:  41
+
+VHWZWMVQWYVLZEEACVOERFCSEFEZC
+------------------------------------------------------------
+
+GMA ciphertext number:  42
+
+IVQMTJSQJMIVJSRTTKWBSCQRHQPIGY
+------------------------------------------------------------
+
+GMA ciphertext number:  43
+
+PLUTPAYBRMWATLUIFXMIFWTAAWF
+------------------------------------------------------------
+
+GMA ciphertext number:  44
+
+LFZEBKAIEBNIGEDAZZYXUBBSKAT
+------------------------------------------------------------
+
+GMA ciphertext number:  45
+
+XHXIZFWJECHCRHBADZEGZZIHCZ
+------------------------------------------------------------
+
+GMA ciphertext number:  46
+
+FBAFPKQICZWKKBAFTPUQIZIOAUI
+------------------------------------------------------------
+
+GMA ciphertext number:  47
+
+RSVQSNSTVZSNSOVBZIVUMTNSMW
+------------------------------------------------------------
+
+GMA ciphertext number:  48
+
+JQCDVKJSXMCXWOQWMAAPSKPADKV
+------------------------------------------------------------
+
+GMA ciphertext number:  49
+
+EABNYKPUYBRKYAKUKEQSTQVYAK
+------------------------------------------------------------
+
+GMA ciphertext number:  50
+
+XERMDELERQOMJEOGEECRFECPYPQGM
+------------------------------------------------------------
+
+GMA ciphertext number:  51
+
+FOXUDOEVQUGQUEDOEVQUGZHVZQUY
+------------------------------------------------------------
+
+GMA ciphertext number:  52
+
+PIQDQWLYPYEQTNZAOOBHDDLDDQHT
+------------------------------------------------------------
+
+GMA ciphertext number:  53
+
+AKHGKYZGLQBAKRJLLCBLRLCTHPXQY
+------------------------------------------------------------
+
+GMA ciphertext number:  54
+
+WBPLUCUZLZPMDQBZNWUXQMXNZNPOP
+------------------------------------------------------------
+
+GMA ciphertext number:  55
+
+WGVZMMGJRVMDPERHMRMOMEGTGTM
+------------------------------------------------------------
+
+GMA ciphertext number:  56
+
+ZKCTNNIZTSZIOAEUOZKUFYCCGE
+------------------------------------------------------------
+
+GMA ciphertext number:  57
+
+MIQASGRCAEZGSAACGDCJQAJHREJ
+------------------------------------------------------------
+
+GMA ciphertext number:  58
+
+BEINIOPGUEEZOPGYNUGOPGUDIIF
+------------------------------------------------------------
+
+GMA ciphertext number:  59
+
+UQPGZKVSGIXJJYKSENUQPGQJWUPGU
+------------------------------------------------------------
+
+GMA ciphertext number:  60
+
+FIURXBCFUZUZEEIXREJUZUEFKCC
+------------------------------------------------------------
+
+GMA ciphertext number:  61
+
+DFZHZYEAXSBMLBONSHZYCNOFOZD
+------------------------------------------------------------
+
+GMA ciphertext number:  62
+
+XMQOJAHUUGJUUGDPHRAODQDWMHAU
+------------------------------------------------------------
+
+GMA ciphertext number:  63
+
+MXLMHHBRPMKRHGKRHBRERRKREFRL
+------------------------------------------------------------
+
+GMA ciphertext number:  64
+
+CKFVWTWGBWQLYCGTEYGHDLTCOMVGF
+------------------------------------------------------------
+
+GMA ciphertext number:  65
+
+LVUAVUWGGQEDYSQKXQHVBKXQYD
+------------------------------------------------------------
+
+GMA ciphertext number:  66
+
+DHIHIGHDBSFBFUYESFDRHBSHJD
+------------------------------------------------------------
+
+GMA ciphertext number:  67
+
+MEWBGSRMBOKYJMOYRGBIGMONSG
+------------------------------------------------------------
+
+GMA ciphertext number:  68
+
+MPFPRCNCRQDMBBEGWGMNWJINQZRX
+------------------------------------------------------------
+
+GMA ciphertext number:  69
+
+SARAHQDRUSDQZUSARERNAPUSAUJZ
+------------------------------------------------------------
+
+GMA ciphertext number:  70
+
+OBNQXURVOUOBNQIWXURVOUOBNOQRIQHY
+------------------------------------------------------------
+
+GMA ciphertext number:  71
+
+KFKYXGFFZQNCLGATTXKTMLFYAA
+------------------------------------------------------------
+
+GMA ciphertext number:  72
+
+NUBEEHNUBEYHUNLHKEKNZHKCFFCQ
+------------------------------------------------------------
+
+GMA ciphertext number:  73
+
+JOPTWBOJLGUUXJOUQLTWLRKODYHTL
+------------------------------------------------------------
+
+GMA ciphertext number:  74
+
+KZKBEMRUDRMRASKDGMDHDSUDTD
+------------------------------------------------------------
+
+GMA ciphertext number:  75
+
+AYXPYEJPISJLZJLYLUNSJIJILBTUUSZC
+------------------------------------------------------------
+
+GMA ciphertext number:  76
+
+TXTJUAMZUOLZQMBTVOHIRVMQLU
+------------------------------------------------------------
+
+GMA ciphertext number:  77
+
+ROUANQLBGXTHTTYVQGOBTETSIOA
+------------------------------------------------------------
+
+GMA ciphertext number:  78
+
+SGPKWOWNEONOHPFLYPEEJTGEZHSYLH
+------------------------------------------------------------
+
+GMA ciphertext number:  79
+
+DFDFPMKCPBNFFIGFJDFZKDCPOKNKR
+------------------------------------------------------------
+
+GMA ciphertext number:  80
+
+YDCCTBRUEZDUEYPAQNEXJPACCCDHE
+------------------------------------------------------------
+
+GMA ciphertext number:  81
+
+DRNKXVGXJNBCBPOKAOJQNVKIAOVJGPDXG
+------------------------------------------------------------
+
+GMA ciphertext number:  82
+
+TCRKKFWIHTZBWKFRWKSZBWSHGVAO
+------------------------------------------------------------
+
+GMA ciphertext number:  83
+
+KUVKAHJHPFEYISKYUDKZBSPEUVO
+------------------------------------------------------------
+
+GMA ciphertext number:  84
+
+SICYCZTLAOSIMADOXIMDIPTYGMA
+------------------------------------------------------------
+
+GMA ciphertext number:  85
+
+SQJCJOAASQJTQUAZCJHFXSQJQFYEJ
+------------------------------------------------------------
+
+GMA ciphertext number:  86
+
+YRGRFBFNXCRGRTYFQVCTVXZYRCNXQVCIMNXQ
+------------------------------------------------------------
+
+GMA ciphertext number:  87
+
+TFNFPGGBROPKRTGPVNPLGTVFBFE
+------------------------------------------------------------
+
+GMA ciphertext number:  88
+
+LVAAOKNZXDGCKHKKPIBEOAHODXK
+------------------------------------------------------------
+
+GMA ciphertext number:  89
+
+GUXJHXJHZGUGUHMXZGUMKYWYWVKI
+------------------------------------------------------------
+
+GMA ciphertext number:  90
+
+CMOFQMZBDWIOHLWFTKKUBUHMDNKD
+------------------------------------------------------------
+
+GMA ciphertext number:  91
+
+TMTSUPKNMKRCPCLNWRUTBRXNPKN
+------------------------------------------------------------
+
+GMA ciphertext number:  92
+
+YOEDPDXMZYONOINYXETYVCOUNX
+------------------------------------------------------------
+
+GMA ciphertext number:  93
+
+FEFEREOXFDVAHQMMXDAJDYFDWFE
+------------------------------------------------------------
+
+GMA ciphertext number:  94
+
+PURUECUXUOCLLBBZBYUKPIZUDBY
+------------------------------------------------------------
+
+GMA ciphertext number:  95
+
+ILTSEBXBITDBEWEIQXUEBJXICKBJ
+------------------------------------------------------------
+
+GMA ciphertext number:  96
+
+UHIWMWHFJBXMFNQFXJFHFYBXWZBMF
+------------------------------------------------------------
+
+GMA ciphertext number:  97
+
+KPADCUFUVQAFDUYYTLDUYYTLPAC
+------------------------------------------------------------
+
+GMA ciphertext number:  98
+
+RLBCZFYIYNQCYCGNYLCLSKYFDQBGLSRQSC
+------------------------------------------------------------
+
+GMA ciphertext number:  99
+
+JHRFSRFJRLFCLJNQKXFXWQDAHKS
+------------------------------------------------------------
+

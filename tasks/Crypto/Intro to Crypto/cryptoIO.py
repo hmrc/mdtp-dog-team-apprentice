@@ -7,7 +7,7 @@ def readFile():
     while not exist:
         fname = raw_input("Enter the file name: ")
         if not os.path.exists(fname):
-            print "The file called",fname,"does not exist. Please try again."
+            print ("The file called",fname,"does not exist. Please try again.")
         else:
             exist = True
     ctr=0
@@ -30,18 +30,18 @@ def readKey():
     while not done:
         key = readFile()
         if size(key) != 26:
-            print "The key must have 26 letters! Try again."
+            print ("The key must have 26 letters! Try again.")
         else:
-	    done = True
-	    for i in arange(0,26):
-	        count[i]=0
-	    for i in arange(0,26):
-	        c = ord(key[i])-ord('a')
-		count[c] = count[c] + 1
-		if count[c]>1:
-		    print "Each letter must occur EXACTLY once in the key! Try again."
-		    done = False
-		    i = 26
+            done = True
+        for i in arange(0,26):
+            count[i]=0
+        for i in arange(0,26):
+            c = ord(key[i])-ord('a')
+        count[c] = count[c] + 1
+        if count[c]>1:
+            print ("Each letter must occur EXACTLY once in the key! Try again.")
+            done = False
+            i = 26
     return key
 
 
@@ -61,13 +61,15 @@ def stringHere(text, pos, sub):
             if text[pos+i] != sub[i]:
                 same = False
             i=i+1
-	return same
+        return same
 
 
 def IntArrayToText(numberArray):
     alpha = 'abcdefghijklmnopqrstuvwxyz'
+    #matches each number 0-25 to a letter
     toChar = dict([(i , alpha[i]) for i in range(len(alpha))])
-    chars = map(lambda i: toChar[i], numberArray)
+    #attaches a number to each letter
+    chars = list(map(lambda i: toChar[i], numberArray))
     text = ''.join(chars)
     return text
 
@@ -75,8 +77,10 @@ def IntArrayToText(numberArray):
 
 def TextToIntArray(text):
     alpha = 'abcdefghijklmnopqrstuvwxyz'
+    #matches each letter to a number 0-25
     toInt = dict([(alpha[i], i) for i in range(len(alpha))])
-    textInts = map(lambda c: toInt[c], text)
+    #map doesn't work in python3 - hence list - attaches letter to each number
+    textInts = list(map(lambda c: toInt[c], text))
     intArray = array(textInts)
     return intArray
 

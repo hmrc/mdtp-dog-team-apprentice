@@ -1,4 +1,4 @@
-Virtual clock
+Virtual clock - bugger the clock
 ===============
 
 **THIS EXERCISE RELIES ON ASSETS FROM [JAVASCRIPT30](https://javascript30.com/)**

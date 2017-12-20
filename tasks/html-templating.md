@@ -9,7 +9,7 @@ JSON -> HTML templating
 
 **Relevant concepts**: Data structures, templating, DOM
 
-**Prerequisites**: Codecademy JS course sections 1-8
+**Prerequisites**: Codecademy JS course sections 1-8, potentially also node.js knowledge
 
 Goal
 ----

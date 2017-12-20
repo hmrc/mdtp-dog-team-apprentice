@@ -13,7 +13,7 @@ JSON -> HTML templating
 
 Goal
 ----
-Dynamically populate a HTML template using data gained from a JSON file (attached).
+Dynamically populate a HTML template using data gained from [a JSON file](https://github.com/hmrc/mdtp-dog-team-apprentice/blob/master/tasks/data.json) (attached).
 
 The project should:
 * Check that the data is valid JSON before parsing it.
@@ -33,4 +33,6 @@ You may instead choose to use a *templating language* like moustache or handleba
 The template must be fully styled, using CSS to achieve a "finished" design.
 
 The template must also work with any data file passed to it.
+
+You can use a tool like [JSONLint](https://jsonlint.com/) to validate the data file before using it, but it would be advantageous to do this programmatically, as a step in your script, to ensure that any supplied data file will always be validated before use.
 

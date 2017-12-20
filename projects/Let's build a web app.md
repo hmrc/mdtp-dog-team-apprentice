@@ -45,12 +45,12 @@ Inspecting the markup and styles of existing websites using browser dev tools is
 
 Apprentices will end up with a HTML & CSS prototype for each screen of their application.
 
-### 4. Source control
+### 4. Version control
 This module introduces the need for **source and version control**, especially for developers working in teams. Apprentices install git and learn several basic git commands (`git commit`, `git push`). They also learn the concept of remotes, and connect their local git repository to a Github repository.
 
 At the end of this module, the prototype HTML & CSS files we have so far will live in a Github repo.
 
-### 5. Javascript
+### 5. Javascript & client-side development
 In this module, we introduce the first *real* programming language - javascript. Using Codepen, Apprentices learn the programming concepts of types, variables, comparison operators, if and for loops.
 
 At the end of this module, apprentices have added some simple interactivity to their application, using a click event listener to add and remove a class from some markup, and therefore change its appearance.
@@ -68,7 +68,7 @@ Apprentices end up with a fresh project directory initialised with NPM, and lear
 
 Apprentices will be formally introduced to the concept of code **dependencies**, reusable packages/modules of code.
 
-### 7. Frameworks and Express
+### 7. Server-side web frameworks
 The server code written in the last module will be substantially **refactored** to use Express, a Node.js web server framework, or Django, the Python equivalent.
 
 At the end of this module, apprentices will have a simple web application with at least three routes, all serving different HTML files.

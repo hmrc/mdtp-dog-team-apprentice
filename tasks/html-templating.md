@@ -13,11 +13,11 @@ JSON -> HTML templating
 
 Goal
 ----
-Dynamically populate a HTML template using data gained from [a JSON file](https://github.com/hmrc/mdtp-dog-team-apprentice/blob/master/tasks/data.json) (attached).
+Dynamically populate a HTML template for an online news article, using data gained from [a JSON file](https://github.com/hmrc/mdtp-dog-team-apprentice/blob/master/tasks/data.json) (attached).
 
 The project should:
 * Check that the data is valid JSON before parsing it.
-* Contain a fully styled HTML/CSS template for an online news article.
+* Contain a fully styled HTML/CSS template, in the style of an article on a website like BBC News.
 * As the user loads the page, read the JSON file and display all info contained within it in the correct parts of the template.
 
 Stretch goal

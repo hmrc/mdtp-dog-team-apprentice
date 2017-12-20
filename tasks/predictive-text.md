@@ -31,7 +31,7 @@ Possible approach
 
 Autocomplete suggestions are a common feature of modern user interfaces. This project is a particularly fleshed-out implementation.
 
-Start by working out how to bring in the external dictionary JSON file into your application file as a JS object.
+Start by working out how to bring in [the external dictionary JSON file](https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json) into your application file as a JS object.
 
 Then, work out how to get the user's text input stored as a JS variable.
 

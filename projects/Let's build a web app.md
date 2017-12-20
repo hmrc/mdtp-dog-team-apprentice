@@ -83,7 +83,7 @@ We will refactor the applications to use a MongoDB database with at least one mo
 
 We will discuss the structure of MongoDB databases (keys, documents, collections) and their differences to relational databases.
 
-### 10. Deploy with Heroku
+### 10. Deployment
 We will deploy the application, which has been only running locally until now, to Heroku. We will consider ways to implement **continuous integration** and **continuous deployment**.
 
 ### 11. Getting data from APIs

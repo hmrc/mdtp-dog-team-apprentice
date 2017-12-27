@@ -25,16 +25,16 @@ You should:
 * Count the total number of banks in 1933 and 1939 (to check n against merged file)
 * Compare the total number of banks against the rows in the merged file to check you haven't lost any data
 * Calculate 'loans' divided by 'assets' for each bank in 1933, then put the result in a column called 'loan-asset ratio'
+* Print the bottom 10 banks and corresponding loan-asset ratios
+* Create a bar chart of the top 10 banks and corresponding loan-asset ratios
 * Split the merged dataset into two csv files - one for 1933 and one for 1939
-* Create a bank-level variable for the difference in bank lending between 1939 and 1933
-* Create a fips-level variable for the difference in bank lending between 1939 and 1933
-* Display the top and bottom 10 banks and fips codes for positive and negative changes in bank lending 
+
 
 Stretch goals
 ------------
 
-* Conduct a merge sort on the bank-level loan_change variable to sort banks from smallest to biggest change. Then plot it on a histogram.
-* Conduct a bubble sort on the fips-level loan_change variable to sort banks from smallest to biggest change. Then plot it on a histogram.
+* Conduct a merge sort on the loan-asset variable to sort banks from smallest to biggest. Then plot it on a histogram.
+* Conduct a bubble sort on the loan-asset variable to sort banks from smallest to biggest. Then plot it on a histogram.
 
 Possible approach
 ---------------

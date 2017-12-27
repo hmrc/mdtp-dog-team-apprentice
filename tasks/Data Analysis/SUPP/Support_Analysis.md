@@ -39,12 +39,16 @@ Based on existing information in the SUPP JIRA board you should:
 * A pie graph showing request by team for all tickets in the sample
 * A stacked line graph showing number of requests by team over time (weeks) for all tickets in the sample
 * A bar graph showing average number of requests by team for all tickets in the sample
+* A bar graph showing tickets created in a week and tickets closed in a week - over time
+* A line graph showing tickets opened in week 2 minus (-) tickets closed in week 1 - over time
 
 Labelling Framework
 ----
 A labelling framework has been developed to facilitate analysis. There are two categories of label, each of which would need to be consistently applied to tickets. Platform teams are currently labeled, but the focus of support tickets is not. Tracking where platform problems are coming from is a good place to start. The list below is likely incomplete, but if you start seeing a few tickets with a common theme that is not captured, flag it with the other apprentices and add a new label in.
 
 The labelling framework can be found here - https://confluence.tools.tax.service.gov.uk/display/Support/Platform+Triage+Process
+
+The labelling framework requires documentation of the product/service that is reporting issues, and the inclusion of a macro category (e.g. metrics or the build pipeline)
 
 An additional category of label can be derived from the ticket reporter. This would focus on the Originating Team. Three pieces of information would be useful:
 * Team (or teams)

@@ -6,7 +6,7 @@ Support Tracking
 
 **Difficulty**: Easy
 
-**Duration**: 4 hours then ongoing
+**Duration**: 8 hours then ongoing
 
 **Relevant concepts**: crosstabs, pandas
 

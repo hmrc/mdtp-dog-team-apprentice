@@ -36,6 +36,7 @@ Based on existing information in the SUPP JIRA board you should:
 * Download the entire SUPP board as a csv file
 * Identify how many SUPP tickets have team-based labels (e.g. PlatOps, Build and Deploy)
 * Quarantine useful SUPP tickets in a new CSV
+* Count how many for each team
 * A pie graph showing request by team for all tickets in the sample
 * A stacked line graph showing number of requests by team over time (weeks) for all tickets in the sample
 * A bar graph showing average number of requests by team for all tickets in the sample

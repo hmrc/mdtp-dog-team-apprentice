@@ -7,7 +7,7 @@ Data Amalgamation
 
 **Difficulty**: Easy
 
-**Duration**: 4-6 hours
+**Duration**: 12-16 hours
 
 **Relevant concepts**: Dataframes, arrays, functions
 

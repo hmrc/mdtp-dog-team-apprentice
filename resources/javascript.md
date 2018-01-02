@@ -7,6 +7,7 @@ Beginner
 -------
 
 * [Codecademy JS course](codecademy.com/tracks/javascript) - a long, but comprehensive course teaching basic programming principles using javascript. No project-based examples.
+* [Javascript has already won](https://medium.com/@jonnyasmar/javascript-has-already-won-235b29ed126b) - blog post about the territory JS and node cover nowadays.
 
 Intermediate
 ------------

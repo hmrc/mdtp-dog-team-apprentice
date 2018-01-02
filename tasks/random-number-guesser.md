@@ -9,7 +9,7 @@ Random Number Guesser
 
 **Relevant concepts**: Randomness, loops, handling user input
 
-**Prerequisites**: Codecademy Python course sections 1-4
+**Prerequisites**: Codecademy Python or JS course sections 1-4
 
 Goal
 ----

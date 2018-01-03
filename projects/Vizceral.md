@@ -2,7 +2,7 @@
 Vizceral
 =========================
 
-This project will see apprentices build a real-time animated diagram of traffic flowing through MDTP, using the open source tool Vizceral.
+This project will see apprentices build a real-time animated network diagram of traffic flowing through MDTP, using the open source tool Vizceral.
 
 [Vizceral](https://github.com/Netflix/vizceral) is an open-source tool built by Netflix. It is a good fit to the microservice architecture of the tax platform.
 

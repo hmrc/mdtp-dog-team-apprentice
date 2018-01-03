@@ -12,10 +12,12 @@ Beginner
 Intermediate
 ------------
 * [Javascript30](javascript30.com) - Free vanilla JS exercises. About 15 days equivalent of full time work. Some of these have been re-interpreted over in the /tasks folder.
+* [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) - Videos and talks from JSConf.
 
 Node.js
 -------
 
+* [NodeJS tutorials](https://youtu.be/w-7RQ46RgxU). Simple, clear tutorial series about NodeJS.
 * [A basic HTTP web server](https://www.sitepoint.com/creating-a-http-server-in-node-js/)
 * [Real time web apps with Websockets](https://www.youtube.com/watch?v=bjULmG8fqc8). Great for understanding how to build chat apps and similar.
 

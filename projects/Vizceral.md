@@ -15,6 +15,7 @@ Skills developed
 * Software architecture
 * Node.js
 * Docker
+* AWS (S3, Lambda)
 
 Delivery
 --------

@@ -4,16 +4,17 @@ Vizceral
 
 This project will see apprentices build a real-time animated diagram of traffic flowing through MDTP, using the open source tool Vizceral.
 
-Vizceral is an open-source tool built by Netflix. It is a good fit to the microservice architecture of the tax platform.
+[Vizceral](https://github.com/Netflix/vizceral) is an open-source tool built by Netflix. It is a good fit to the microservice architecture of the tax platform.
+
+Watch an introduction to the tool [here](https://www.youtube.com/watch?v=jWpI8qzqNHk).
 
 
 Skills developed
 ----------------
-* Primary
-  * JSON & data structures
-  * Software architecture
-  * Node.js
-  * Docker
+* JSON & data structures
+* Software architecture
+* Node.js
+* Docker
 
 Delivery
 --------
@@ -35,21 +36,22 @@ Process each nginx record in the file.
 Output the data structure required by Vizceral Demo.
 
 ### 4. Up and running with Docker
-Use the generated sample data file and build a Docker container to be used to demo the data generated.
+Use the generated sample data file and build a [Docker](https://www.docker.com/) container to be used to demo the data generated.
 
 ### 5. Using real data
-Update the vizceral demo so it pulls the data file from an S3 bucket, then demo this.
+Up until now, we've been using a sample data file we collected and processed manually.
+
+Now, work on pulling the data from an S3 bucket, processing it, then demo the results.
 
 ### 6. Approaching real time
-Update the vizceral demo so it polls for updated data file every one minute.
+Update the vizceral demo so it polls for updated data file every one minute. We should now have a visualisation which is in step with real-life data.
 
-### 7. 
 Take a second 1 hour sample file and generate a second datafile then demo using a locally running container that the updated data causes the visualization to change.
 
-### 8. Lambda
+### 7. Lambda
 Lambda functions are an Amazon product that allows serverless code to run in the cloud in response to events.
 
 Convert the data generation script to run as an AWS lambda function that is driven by an AWS S3 notification event, but still pushes the data to an S3 bucket.
 
-### 9. Lastly...
+### 8. Lastly...
 Work with the telemetry team to tune the frequency that the nginx files get pushed to S3

@@ -17,7 +17,7 @@ Intermediate
 Node.js
 -------
 
-* [NodeJS tutorials](https://youtu.be/w-7RQ46RgxU). Simple, clear tutorial series about NodeJS.
+* [NodeJS tutorials](https://youtu.be/w-7RQ46RgxU) Videos 1-10 form a simple, clear tutorial series about NodeJS. Later videos cover more advanced topics like serving views over HTTP and application design.
 * [A basic HTTP web server](https://www.sitepoint.com/creating-a-http-server-in-node-js/)
 * [Real time web apps with Websockets](https://www.youtube.com/watch?v=bjULmG8fqc8). Great for understanding how to build chat apps and similar.
 

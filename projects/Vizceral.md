@@ -43,6 +43,8 @@ Up until now, we've been using a sample data file we collected and processed man
 
 Now, work on pulling the data from an S3 bucket, processing it, then demo the results.
 
+*It may be necessary to work with the telemetry team to make sure that nginx logs are output to an S3 bucket before progressing with this.*
+
 ### 6. Approaching real time
 Update the vizceral demo so it polls for updated data file every one minute. We should now have a visualisation which is in step with real-life data.
 

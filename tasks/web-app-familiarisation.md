@@ -28,8 +28,8 @@ Possible approach
 ---------------
 Web application frameworks are a vital prerequisite to most web development projects.
 
-You should attempt this project using a popular framework such as Express or Django.
+You should attempt this project using a popular framework such as [Express](https://expressjs.com/) or [Django](http://djangoproject.com).
 
-You can use any templating language (moustache, handlebars, nunjucks) but EJS is probably the easiest to get started with.
+You can use any templating language (moustache, handlebars, nunjucks) but [EJS](http://embeddedjs.com) is probably the easiest to get started with.
 
 Remember that a database does **not** need to be incorporated at this time, nor does any dynamic data.,

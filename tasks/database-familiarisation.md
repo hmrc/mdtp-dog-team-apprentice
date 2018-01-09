@@ -3,9 +3,9 @@ Database familiarisation
 
 **Technology:** Node.js, MongoDB
 
-**Difficulty**: Intermediate
+**Difficulty**: Hard
 
-**Duration**: Half a day
+**Duration**: Day
 
 **Relevant concepts**: Database structures, web application frameworks, templating
 

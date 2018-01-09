@@ -1,7 +1,7 @@
 Database familiarisation
 =======
 
-**Technology:** Javascript or Python
+**Technology:** Node.js, MongoDB
 
 **Difficulty**: Intermediate
 
@@ -27,7 +27,7 @@ The app should provide a form for the user to add additional entries to the data
 
 Possible approach
 ---------------
-You should complete this project using an Express app from a previous exercise. Use [MongoDB](mongodb.org) as your database and [Mongoose](http://mongoosejs.com/) as your database driver module. You can use any templating language, but [EJS](http://www.embeddedjs.com/) is probably simplest for beginners.
+You should complete this project using an Express app from a previous exercise. Use [MongoDB](http://mongodb.org) as your database and [Mongoose](http://mongoosejs.com/) as your database driver module. You can use any templating language, but [EJS](http://www.embeddedjs.com/) is probably simplest for beginners.
 
 You will need to create at least one **model** before completing the goals. This is a file which defines the data structure of each database entry.
 

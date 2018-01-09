@@ -5,7 +5,7 @@ Database familiarisation
 
 **Difficulty**: Hard
 
-**Duration**: Day
+**Duration**: Day or two
 
 **Relevant concepts**: Database structures, web application frameworks, templating
 

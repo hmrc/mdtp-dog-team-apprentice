@@ -29,6 +29,8 @@ Possible approach
 ---------------
 You should complete this project using an Express app from a previous exercise. Use [MongoDB](http://mongodb.org) as your database and [Mongoose](http://mongoosejs.com/) as your database driver module. You can use any templating language, but [EJS](http://www.embeddedjs.com/) is probably simplest for beginners.
 
+You should install a database admin tool like [Robo 3T](https://robomongo.org/) to your computer to quickly see and control your database contents.
+
 You will need to create at least one **model** before completing the goals. This is a file which defines the data structure of each database entry.
 
 Once you have a model and templating language set up, work on the list view.

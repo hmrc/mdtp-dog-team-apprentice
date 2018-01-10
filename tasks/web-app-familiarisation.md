@@ -13,7 +13,7 @@ Web application framework familiarisation
 
 Goal
 ----
-Produce a really simple web application.
+Produce a really simple web application, which can be run locally with no errors.
 
 The project should:
 * Serve at least three different views to the user, each at its own URL (or route).
@@ -22,7 +22,7 @@ The project should:
 
 Stretch goal
 -----------
-The app should catch all 'unknown' URLs and redirect them to its own custom '404 not found' page.
+The app should also catch all 'unknown' URLs and redirect them to its own custom '404 not found' page.
 
 Possible approach
 ---------------
@@ -30,6 +30,8 @@ Web application frameworks are a vital prerequisite to most web development proj
 
 You should attempt this project using a popular framework such as [Express](https://expressjs.com/) or [Django](http://djangoproject.com).
 
-You can use any templating language (moustache, handlebars, nunjucks) but [EJS](http://embeddedjs.com) is probably the easiest to get started with.
+If using Express, you can use any templating language (moustache, handlebars, nunjucks) but [EJS](http://embeddedjs.com) is probably the easiest to get started with.
 
-Remember that a database does **not** need to be incorporated at this time, nor does any dynamic data.,
+Every view should contain some content, with links back to the other routes. This could take the form of a navigation menu or inline hyperlinks, but neither a clean layout nor CSS wizardry are the purpose of this exercise, so don't spend too long on them.
+
+Your 'dynamic data' can be stored as a variable in the application's code, and then rendered into a view. A database does **not** need to be incorporated at this time.

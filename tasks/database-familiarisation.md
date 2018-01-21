@@ -27,11 +27,14 @@ The app should provide a form for the user to add additional entries to the data
 
 Possible approach
 ---------------
-You should complete this project using an Express app from a previous exercise. Use [MongoDB](http://mongodb.org) as your database and [Mongoose](http://mongoosejs.com/) as your database driver module. You can use any templating language, but [EJS](http://www.embeddedjs.com/) is probably simplest for beginners.
+
+You should complete this project using an Express app from a previous exercise. Use [MongoDB](http://mongodb.org) as your database and [Mongoose](http://mongoosejs.com/) as your database driver module. In order to successfully complete this exercise, you **MUST** read and understand the documentation for both tools.
+
+You can use any templating language, but [EJS](http://www.embeddedjs.com/) is probably simplest for beginners.
 
 You should probably install a database admin tool like [Robo 3T](https://robomongo.org/) to your computer to quickly see and control your database contents, though you could also use the default mongo shell if you're comfortable with it.
 
-You will need to create at least one **model** before completing the goals. This is a file which defines the data structure of each database entry.
+You will need to create at least one **model** before completing the goals. This is a file which defines the data structure of each database entry. You can learn how to define a model using the Mongoose documentation.
 
 Once you have a model and templating language set up, work on the list view.
 

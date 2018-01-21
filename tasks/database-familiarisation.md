@@ -29,7 +29,7 @@ Possible approach
 ---------------
 You should complete this project using an Express app from a previous exercise. Use [MongoDB](http://mongodb.org) as your database and [Mongoose](http://mongoosejs.com/) as your database driver module. You can use any templating language, but [EJS](http://www.embeddedjs.com/) is probably simplest for beginners.
 
-You should install a database admin tool like [Robo 3T](https://robomongo.org/) to your computer to quickly see and control your database contents.
+You should probably install a database admin tool like [Robo 3T](https://robomongo.org/) to your computer to quickly see and control your database contents, though you could also use the default mongo shell if you're comfortable with it.
 
 You will need to create at least one **model** before completing the goals. This is a file which defines the data structure of each database entry.
 
@@ -37,4 +37,6 @@ Once you have a model and templating language set up, work on the list view.
 
 Then, work on the detail view, passing in a **query parameter** via the URL, which Mongoose can use to find and return a single, specific database entry.
 
-If you are using Django, you already have an SQL database set up from installation, so this exercise doesn't apply.
+If you are completing the stretch goal, you will have to create an **app.post()** route. You will need to install the **body-parser** NPM module in order to handle form data passed in the HTTP request object.
+
+**If you are using Django, you already have an SQL database set up from installation, so this exercise doesn't apply.**

@@ -2,7 +2,7 @@ Let's build a web app
 ======================
 This is a project intended to teach the fundamentals of user-centred design, front and back end web development, database and server administration.
 
-Apprentices will conceptualise, design and build a simple yet working web application from scratch.
+Apprentices will conceptualise, design and build a simple yet working web application from scratch, following the [12-factor app guidelines](https://12factor.net/).
 
 In the successor project, the existing application will be migrated over to AWS rather than Heroku.
 

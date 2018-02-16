@@ -24,11 +24,6 @@ Stretch goal
 Possible approach
 ---------------
 
-*THIS TASK SHOULD BE COMPLETED STARTING WITH [THIS CODEPEN](https://codepen.io/jhackett1/pen/eVeQPG)*.
-
-*A FINISHED EXAMPLE IS AT THIS [CODEPEN](https://codepen.io/jhackett1/pen/eVeQPG)*.
-
-
 A Codepen template is provided for you with all HTML and CSS complete. Your task is to write only the javascript components.
 
 Address each of the following concerns in order:
@@ -38,3 +33,9 @@ Address each of the following concerns in order:
 3. On button click, the data should be refreshed from the server.
 4. On clicking a podcast item, the player panel should be populated with the content of that podcast.
 5. On clicking a podcast item, the view should swap automatically to the player panel.
+
+Use this Codepen template and this [finished example](https://codepen.io/jhackett1/pen/eVeQPG) to complete this task.
+
+Use the Audioboom API to supply your data. Documentation [is here](https://github.com/audioBoom/api).
+
+You can get a list of podcasts for a user [here](http://api.audioboom.com/users/185399/audio_clips.json).

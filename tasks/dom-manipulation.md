@@ -13,7 +13,7 @@ DOM manipulation
 
 Goal
 ----
-Produce a functioning podcast client app using only javascript techniques. Do not use any frameworks. The end result should be HTML, CSS and JS files only.
+Produce a functioning podcast client app using only javascript techniques. Do not use any frameworks. Do not use any boilerplate code. The end result should be HTML, CSS and JS files only.
 
 Stretch goal
 ------------
@@ -34,7 +34,7 @@ Address each of the following concerns in order:
 4. On clicking a podcast item, the player panel should be populated with the content of that podcast.
 5. On clicking a podcast item, the view should swap automatically to the player panel.
 
-Use this Codepen template and this [finished example](https://codepen.io/jhackett1/pen/eVeQPG) to complete this task.
+Use [this Codepen template](https://codepen.io/jhackett1/pen/eVeQPG) to complete this task.
 
 Use the Audioboom API to supply your data. Documentation [is here](https://github.com/audioBoom/api).
 

@@ -30,9 +30,10 @@ Address each of the following concerns in order:
 
 1. Change the active tab based on the footer link that the user presses.
 2. Fetching data from the server and displaying a list of podcasts on initial page load.
-3. On button click, the data should be refreshed from the server.
-4. On clicking a podcast item, the player panel should be populated with the content of that podcast.
-5. On clicking a podcast item, the view should swap automatically to the player panel.
+3. A spinner should be displayed only while data is being fetched.
+4. On button click, the data should be refreshed from the server.
+5. On clicking a podcast item, the player panel should be populated with the content of that podcast.
+6. On clicking a podcast item, the view should swap automatically to the player panel.
 
 Use [this Codepen template](https://codepen.io/jhackett1/pen/eVeQPG) to complete this task.
 

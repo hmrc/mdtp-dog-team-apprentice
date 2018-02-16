@@ -29,7 +29,7 @@ A Codepen template is provided for you with all HTML and CSS complete. Your task
 Address each of the following concerns in order:
 
 1. Change the active tab based on the footer link that the user presses.
-2. Fetching data from the server and displaying a list of podcasts on initial page load.
+2. Fetching data from the server and displaying a list of no more than 10 recent podcasts on initial page load.
 3. A spinner should be displayed only while data is being fetched.
 4. On button click, the data should be refreshed from the server.
 5. On clicking a podcast item, the player panel should be populated with the content of that podcast.

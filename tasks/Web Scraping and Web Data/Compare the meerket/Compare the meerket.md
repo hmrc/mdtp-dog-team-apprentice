@@ -31,3 +31,12 @@ Stretch goals
 Possible approach
 ---------------
 This program can be implemented fully using the terminal and python. Lxml, requests, numpy and pandas are all useful packages for this project. Despite this, javascript may give you a friendlier interface for your user.
+
+Gotchas
+-------
+* Don't run the script too many times for the same websites, you may get blocked! Instead, try to only pull data from websites when necessary and after a few times try to space it out before retrying
+* If an error occurs when pulling the data, try opening the webpage and check that it works in the browser, then try running the script again
+* Sometimes when getting an xpath for a website it'll give you back an empty array, this may need a little messing around to get the data you want to be returned to you (making the xpath more general, for example)
+* If your data is returned in an array don't forget to call the correct index of the array to get the data you want
+* Data may need cleaning up. The strip() function may be helpful to use for this
+* The join() function can also be used for tidying the data

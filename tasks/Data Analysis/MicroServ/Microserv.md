@@ -1,4 +1,4 @@
-Prototype Count
+Microservice (and slot) Count
 ====================
 
 **Technology:** Any

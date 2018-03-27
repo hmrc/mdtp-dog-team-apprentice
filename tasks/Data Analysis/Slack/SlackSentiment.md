@@ -3,9 +3,9 @@ Slack Sentiment Analysis
 
 **Technology:** Any
 
-**Difficulty**: Easy
+**Difficulty**: Hard
 
-**Duration**: 16-32 hours
+**Duration**: 1-2 weeks
 
 **Relevant concepts**: data cleaning, pandas, regex, algorithms
 

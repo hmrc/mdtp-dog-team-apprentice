@@ -3,9 +3,9 @@ Microservice (and slot) Count
 
 **Technology:** Any
 
-**Difficulty**: Moderate
+**Difficulty**: Hard
 
-**Duration**: 16-32 hours
+**Duration**: 1-2 weeks
 
 **Relevant concepts**: github, loops, 
 

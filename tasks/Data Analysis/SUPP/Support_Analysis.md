@@ -4,9 +4,9 @@ Support Tracking
 
 **Technology:** Any
 
-**Difficulty**: Easy
+**Difficulty**: Moderate
 
-**Duration**: 8 hours then ongoing
+**Duration**: 3-4 days
 
 **Relevant concepts**: crosstabs, pandas
 
